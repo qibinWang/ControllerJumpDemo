@@ -64,6 +64,7 @@
                 handlerClass = [[class alloc] init];
             } else {
 //                return nil;
+                
             }
         }
         else {
